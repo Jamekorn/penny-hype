@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+
+# Environment variables / secrets
+.env
+
+# Data
+data/raw/
+*.csv
+*.parquet
+
+# VS Code settings 
+.vscode/
