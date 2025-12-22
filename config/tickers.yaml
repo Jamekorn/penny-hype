@@ -1,0 +1,6 @@
+# Example tickers list used by ingest and experiments
+watchlist:
+  - AAPL
+  - GME
+  - AMC
+  - TSLA
